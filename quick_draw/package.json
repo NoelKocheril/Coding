@@ -1,0 +1,17 @@
+{
+  "name": "quick_draw",
+  "version": "1.0.0",
+  "description": "Quick Draw Test",
+  "main": "index.js",
+  "dependencies": {
+    "git": "^0.1.5",
+    "live-server": "^1.2.0",
+    "node": "^11.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

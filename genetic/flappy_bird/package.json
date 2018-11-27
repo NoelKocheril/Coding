@@ -1,0 +1,17 @@
+{
+  "name": "flappy_bird_genetic",
+  "version": "0.0.1",
+  "description": "Genetic Algorithms for Playing Flappy Bird",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Flappy",
+    "Bird",
+    "Genetic",
+    "Algorithms"
+  ],
+  "author": "Noel Kocheril",
+  "license": "MIT"
+}
