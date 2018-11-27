@@ -1,0 +1,22 @@
+{
+  "name": "ca",
+  "version": "1.0.0",
+  "description": "Cellular Automata",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NoelKocheril/Coding/CA"
+  },
+  "keywords": [
+    "Cellular",
+    "Automata"
+  ],
+  "author": "Noel Kocheril",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
